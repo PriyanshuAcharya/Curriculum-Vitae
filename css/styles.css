@@ -1,0 +1,58 @@
+/*  TAG SELECTORS  */
+
+  body {
+    background-color: #CCF3EE;
+  }
+
+  ol {
+    list-style-position: inside;
+    text-align: center;
+  }
+
+  h1 {
+    color: #001D6E;
+    font-family: "Times New Roman","Times",serif;
+  }
+  h3
+  {
+    color: #3E64FF;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+  }
+  input:hover
+  {
+    background-color: #F7EC09;
+  }
+  textarea:hover
+  {
+    background-color: #F7EC09;
+  }
+
+/*  CLASS SELECTORS  */
+
+  .heading {
+    background-color: blue;
+    border-style: none;
+    height: 2px;
+  }
+
+    .breaks {
+      border-color: #069A8E;
+      border-style: none;
+      border-top-style: dotted;
+      border-width: 5px;
+      width: 5%;
+    }
+
+    .ss {
+      background-color: #069A8E;
+      border-style: none;
+      height: 2px;
+    }
+
+/*  ID SELECTORS  */
+
+  #bio {
+    border: 2px dotted blue;
+    border-radius: 25px;
+    padding: 20px;
+  }
