@@ -4,12 +4,6 @@
     background-color: #CCF3EE;
   }
 
-div
-{
-    display: flex;
-flex:auto;
-    flex-direction: column;
-}
   ol {
     list-style-position: inside;
     text-align: center;
